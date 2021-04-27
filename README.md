@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/logo.svg" alt="Podcastr logo">
+  <img src="/favicon.png" alt="Podcastr logo">
 </div>
 
 ## Podcastr
@@ -7,8 +7,6 @@
 <h4 align="center">
   Podcastr is a podcast broadcast platform with a clean and attractive design.
 </h4>
-
-![Podcastr preview](.github/app-preview.png)
 
 ## Tecnologies
 
