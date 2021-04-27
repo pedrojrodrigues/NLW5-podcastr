@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/favicon.png" alt="Podcastr logo">
+  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
 </div>
 
 ## Podcastr
